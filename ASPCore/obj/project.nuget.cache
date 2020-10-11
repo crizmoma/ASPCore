@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9Mxmk2Vb4PVYk29EZ5TWJ7I+uv7K8/4nb8iwz5aFX/7w7NhddaHmZ9KNTvtyxmmaPj0scZ+bQjcaXeGln+QIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Source\\Repos\\ASPCore\\ASPCore\\ASPCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
